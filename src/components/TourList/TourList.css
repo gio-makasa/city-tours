@@ -1,0 +1,9 @@
+.tourlist{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
