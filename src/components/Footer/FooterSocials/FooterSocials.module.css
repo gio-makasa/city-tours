@@ -1,0 +1,17 @@
+#Socials{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem;
+    width: 15vw;
+}
+.Social{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Social a{
+    color: white;
+    text-decoration: none;
+}

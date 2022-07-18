@@ -1,3 +1,10 @@
+#ToursSection{
+    padding-top: 70px;
+}
+#title{
+    text-align: center;
+    padding-top: 1rem;
+}
 .tourlist{
     display: flex;
     justify-content: center;

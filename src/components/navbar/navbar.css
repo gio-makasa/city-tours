@@ -1,11 +1,18 @@
+html{
+    scroll-behavior: smooth;
+}
+
+#space{
+    height: 100px;
+}
+
 #navbar{
     display: grid;
     grid-template-columns: auto 1fr;
     background-color: #202020;
-}
-
-#navbar img{
-    height: 100px;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
 }
 
 #nav-links{
@@ -16,14 +23,18 @@
     list-style-type: none;
 }
 
+#nav-links li {
+    border-right: solid green 2px;
+}
+
 .nav-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
     color: white;
     text-decoration: none;
     font-size: 1.3rem;
-}
-
-.active{
-    color: greenyellow;
 }
 
 .nav-link:hover{
