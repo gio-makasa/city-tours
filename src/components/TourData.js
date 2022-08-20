@@ -1,30 +1,30 @@
 export const TourData = [
     {
         Id: 1,
-        city: "Arizona",
-        img: "./img/Grand_Canyon.jpg",
-        name: "Grand Canyon",
+        city: "Italy",
+        img: "./img/Venice.jpg",
+        name: "Venice",
         info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
         Id: 2,
-        city: "Paris",
+        city: "France",
         img: "./img/Eiffel.jpg",
-        name: "Eiffel",
+        name: "Paris",
         info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
         Id: 3,
-        city: "London",
+        city: "England",
         img: "./img/London_Eye.jpg",
-        name: "London Eye",
+        name: "London",
         info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
         Id: 4,
-        city: "Rome",
+        city: "Italy",
         img: "./img/Colosseum.jpg",
-        name: "Colosseum",
+        name: "Rome",
         info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
@@ -36,9 +36,9 @@ export const TourData = [
     },
     {
         Id: 6,
-        city: "Brazil",
-        img: "./img/Amazon.jpg",
-        name: "Amazon",
+        city: "Australia",
+        img: "./img/Sydney.jpg",
+        name: "Sydney",
         info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
 ];

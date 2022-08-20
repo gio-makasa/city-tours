@@ -7,13 +7,7 @@
 }
 #text{
     margin: 2rem 0;
-    padding-bottom: 1rem;
-    display: flex;
-    gap: 1rem;
+    padding: 1rem;
     position: relative;
     border-bottom: solid green 2px;
-    justify-content: space-between;
-}
-#text p{
-    flex-basis: 25%;
 }

@@ -32,3 +32,17 @@
     width: 100%;
     z-index: 1;
 }
+
+@media screen and (max-width: 600px) {
+    .HomeSection{
+        width: 100%;
+    }
+    #title{
+        font-size: x-large;
+        padding: 0;
+    }
+    #text{
+        font-size: small;
+        padding: 0;
+    }
+}
